@@ -1,8 +1,8 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.2.1+cpu
-streamlit==1.32.0
-Pillow==10.2.0
-SpeechRecognition==3.10.1
-transformers==4.38.2
-pyaudio==0.2.14
-torchvision==0.17.1+cpu
+torch==2.10.0+cpu
+torchvision
+streamlit
+Pillow
+SpeechRecognition
+transformers
+pyaudio
